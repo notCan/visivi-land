@@ -46,7 +46,8 @@ module.exports = {
         "2xl": "1280px",
       },
       fontFamily: {
-        spaceGrotesk: ["Space Grotesk", 'sans-serif'],
+        manrope: ["Manrope", 'sans-serif'],
+        inter: ["Inter", 'sans-serif'],
       },
     },
   },

@@ -1,5 +1,6 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap"); */
-@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Manrope:wght@200..800&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -8,7 +9,7 @@ html {
   @apply text-[14px] md:text-[16px];
 }
 body {
-  @apply bg-white font-spaceGrotesk leading-normal;
+  @apply bg-white font-manrope leading-normal;
   /* font-family: "Work Sans", sans-serif; */
   /* font-family: "Space Grotesk", sans-serif; */
 }
@@ -21,7 +22,7 @@ h6 {
   @apply text-secondary-800 !leading-normal;
 }
 p {
-  @apply text-secondary-500;
+  @apply text-secondary-500 font-inter;
 }
 a {
   @apply outline-primary-500;
