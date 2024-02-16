@@ -108,6 +108,34 @@
           </div>
         </div>
       </section>
+      <section class="services pt-40">
+        <div ref="quotesTitle" class="content max-w-2xl mx-auto text-center mb-10">
+          <h2 class="font-semibold text-4xl mb-6">
+            {{ goruslerHeroData.title }}
+          </h2>
+          <p>
+            {{ goruslerHeroData.description }}
+          </p>
+        </div>
+        <div ref="quotesCards" class="app-cards">
+          <div v-for="(item, index) in goruslerCardsData" :key="index" class="app-card p-6">
+            <div class="icon text-secondary-500">
+              <i class="ri-double-quotes-l text-5xl" />
+            </div>
+            <div class="content mt-3">
+              <h3 class="font-medium">
+                {{ item.quote }}
+              </h3>
+            </div>
+            <div class="mt-6">
+              <p class="text-sm flex items-center">
+                <span class="w-4 border-b border-2 border-primary mr-2" />
+                {{ item.name }}
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
       <div ref="indexBanner" class="pb-9">
         <AppBanner />
       </div>
@@ -123,6 +151,8 @@ const second = await import('../contentrain/anasayfa-second/anasayfa-second.json
 const secondCards = await import('../contentrain/anasayfa-second-cards/anasayfa-second-cards.json')
 const fullBanner = await import('../contentrain/fullbanner/fullbanner.json')
 const blogHero = await import('../contentrain/anasayfa-blog-cards/anasayfa-blog-cards.json')
+const goruslerHero = await import('../contentrain/gorusler-hero/gorusler-hero.json')
+const goruslerCards = await import('../contentrain/gorusler-cards/gorusler-cards.json')
 const data = await queryContent("blog").find()
 const heroData = hero.default[0]
 const storeButtonsData = storeButtons.default.sort((a, b) => a.index - b.index)
@@ -131,6 +161,8 @@ const secondData = second.default[0]
 const secondCardsData = secondCards.default.sort((a, b) => a.index - b.index)
 const fullBannerData = fullBanner.default[0]
 const blogHeroData = blogHero.default[0]
+const goruslerHeroData = goruslerHero.default[0]
+const goruslerCardsData = goruslerCards.default
 
 
 const references = ref(null);

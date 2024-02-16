@@ -1,0 +1,32 @@
+[
+  {
+    "ID": "38e694da1249",
+    "createdAt": "Fri Feb 16 2024 15:37:30 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-16T12:38:53.376Z",
+    "quote": "Visivi is fast, reliable, and passionate. They actually care about creating good content.",
+    "name": "John  Dove",
+    "index": 1,
+    "status": "publish",
+    "scheduled": false
+  },
+  {
+    "ID": "e2ea988c9bce",
+    "createdAt": "Fri Feb 16 2024 15:38:21 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-16T12:38:53.392Z",
+    "quote": "Visivi is extremely valuable to us. Their ideas push our content in better directions.",
+    "name": "John Dove",
+    "index": 3,
+    "status": "publish",
+    "scheduled": false
+  },
+  {
+    "ID": "f718e96aa142",
+    "createdAt": "Fri Feb 16 2024 15:38:00 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-16T12:38:53.403Z",
+    "quote": "Visivi is responsive, fast, and they produce good content based on reliable research.",
+    "name": "John Dove",
+    "index": 2,
+    "status": "publish",
+    "scheduled": false
+  }
+]
