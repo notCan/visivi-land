@@ -13,7 +13,9 @@
       </h1>
       <span class="section-description text-secondary-500 text-base" v-html="section.description"></span>
       <nuxt-link :to="`/blog/${section.slug}`" class="btn-primary-lighter flex items-center mt-8 w-max">
-        Learn more <i class="ri-arrow-right-line" /></nuxt-link>
+        <span class="mr-2">
+          Daha fazla
+        </span> <i class="ri-arrow-right-line" /></nuxt-link>
     </div>
   </section>
 </template>

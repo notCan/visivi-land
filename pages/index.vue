@@ -70,7 +70,7 @@
         <h3 class="mb-6 text-white text-4xl font-semibold">
           {{ fullBannerData.title }}
         </h3>
-        <div class="prose text-base" v-html="fullBannerData.description"></div>
+        <div class="prose text-base text-slate-200 pb-8" v-html="fullBannerData.description"></div>
         <div class="flex flex-row space-x-4">
           <nuxt-link v-for="item in storeButtonsData" :key="item.ID" :to="item.link">
             <img :src="item.src.split('public')[1]" :alt="item.alt">
@@ -170,7 +170,7 @@ const quotesCards = ref(null);
 // });
 
 useHead({
-  title: "Home",
+  title: "Visivi",
   htmlAttrs: {
     lang: "en",
   },

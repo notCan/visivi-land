@@ -40,7 +40,7 @@ const casesSection = ref(null);
 // });
 
 useHead({
-  title: "Blog",
+  title: "Visivi Blog",
   htmlAttrs: {
     lang: "en",
   },

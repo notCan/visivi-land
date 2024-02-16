@@ -29,7 +29,7 @@
           <h3 class="font-semibold text-xl mb-4 md:w-max">
             Blog Yazıları
           </h3>
-          <ul class="sm:w-max space-y-2">
+          <ul class="sm:w-max space-y-2 text-slate-500">
             <li v-for="item in data" :key="item.ID">
               <nuxt-link :to="`/blog/${item.slug}`">
                 {{ item.title }}

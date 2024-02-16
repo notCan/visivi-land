@@ -70,7 +70,7 @@ const form = reactive({
 // });
 
 useHead({
-  title: 'Iletisim',
+  title: 'Visivi İletişim',
   htmlAttrs: {
     lang: "en",
   },
