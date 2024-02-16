@@ -1,0 +1,149 @@
+[
+  {
+    "appHero": {
+      "ID": "be42e97e-4243-48b3-b92c-08275a55f421",
+      "title": "Content for Headless CMS industry",
+      "subtitle": "A CMO’s secret Weapon",
+      "description": "Wordify is not just another content factory. We integrate into marketing teams to build content-filled funnels that turn website visitors into MQLs (Marketing Qualified Leads) and SQLs (Sales Qualified Leads). Here’s how we do it.",
+      "media": {
+        "ID": "75bf34f7-4f21-4d0d-8c00-2c94a537ab1d",
+        "src": "public/img/1659074615180_background.avif",
+        "alt": "background",
+        "createdAt": 1659074620193
+      },
+      "logo": {
+        "ID": "e7194e16-2538-43ef-8e58-e3b722f6435d",
+        "src": "public/img/1659074654137_logo-brand.svg",
+        "alt": "logo",
+        "link": "/",
+        "createdAt": 1659074661686
+      },
+      "createdAt": 1658826927570
+    },
+    "details": {
+      "ID": "a5f6e083-88f1-474e-b6c3-780a75b608a5",
+      "first": {
+        "ID": "a2759090-d30c-4ee3-ad83-7f3071e3308c",
+        "value": "55",
+        "description": "Words written every month",
+        "createdAt": 1658827543552,
+        "updatedAt": 1660160733068
+      },
+      "second": {
+        "ID": "1c57e7bb-77ab-4659-8cf9-b793eac757e1",
+        "value": 6,
+        "description": "Articles and white papers published.",
+        "createdAt": 1658827576018,
+        "updatedAt": 1660160762199
+      },
+      "third": {
+        "ID": "faa352aa-93ca-4b77-bde7-8de3a448a8d3",
+        "value": 7,
+        "description": "Years of experience in the headless CMS industry",
+        "createdAt": 1658827596803,
+        "updatedAt": 1660160805860
+      },
+      "createdAt": 1658827520592,
+      "updatedAt": 1658827555943
+    },
+    "sections": [
+      {
+        "ID": "3ee9a5dd-556e-4626-b14b-0d42c878eee9",
+        "title": "Expertly researched content strategies",
+        "description": "<p>A documented content strategy provides the strong foundation required to create impactful content.</p><p><br></p><p>Together with our clients, we research and build documented content strategies that address SEO strategy, competitor analysis, market trends, and website health, culminating in a strategy to produce content that attracts, engages, and converts.</p>",
+        "media": {
+          "ID": "b901e215-b1ba-4f94-bb95-66791341185f",
+          "src": "public/img/1660056868968_expertly researched.svg",
+          "alt": "section",
+          "createdAt": 1659074174169,
+          "updatedAt": 1660056870245
+        },
+        "button": {
+          "ID": "f3ebba9b-70fc-4790-96af-290710392528",
+          "label": "Learn more",
+          "link": "/content-strategy",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1658827224776
+        },
+        "index": 1,
+        "createdAt": 1658827081344,
+        "updatedAt": 1683101266706
+      },
+      {
+        "ID": "b8a315ee-02c4-4c3b-97f1-309a36ba104d",
+        "title": "Integrated content production",
+        "description": "<p>Since 2016, Wordify has produced over 2 million words of content for headless CMS, headless commerce, and DXP vendors. We integrate into our client’s marketing teams to publish:</p><p><br></p><ul><li>Compelling website copy</li><li>Valuable blog posts, white papers, and eBooks</li><li>Fully-managed case studies, where Wordify handles the discovery process.</li></ul>",
+        "media": {
+          "ID": "d575104f-c2f5-441b-b90f-f16e77462b50",
+          "src": "public/img/1660056888633_integrated content prod..svg",
+          "alt": "study",
+          "createdAt": 1659074198285,
+          "updatedAt": 1660056889976
+        },
+        "button": {
+          "ID": "b9875648-fc96-47d7-92ce-3453b95ac342",
+          "label": "Learn more",
+          "link": "/impactful-content",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1658827382175
+        },
+        "index": 2,
+        "createdAt": 1658827103577,
+        "updatedAt": 1660198513811
+      },
+      {
+        "ID": "3376f8b3-b092-47a3-933c-6c759aca725e",
+        "title": "Intelligent content repurposing",
+        "description": "<p>The art of content repurposing is the key to a successful content marketing strategy. Most brands already have content—whether it’s in written, audio, or video form—that can be refreshed, developed, and repurposed to attract more traffic. </p><p><br></p><p>Wordify regularly helps its clients revitalize old content to remain highly-ranked by Google.</p>",
+        "media": {
+          "ID": "0670ee5d-e3e7-44f2-bc0f-261f459c4a81",
+          "src": "public/img/1660056908291_intelligent content repur..svg",
+          "alt": "study",
+          "createdAt": 1659074213806,
+          "updatedAt": 1660056909601
+        },
+        "button": {
+          "ID": "a6e07ecf-743e-4deb-9309-4062f8bf1159",
+          "label": "Learn more",
+          "link": "/content-repurposing",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1658827449802
+        },
+        "index": 3,
+        "createdAt": 1658827127553,
+        "updatedAt": 1659682246101
+      }
+    ],
+    "banner": {
+      "ID": "674ae5c8-b463-4e1f-b40f-c834088b7ae5",
+      "title": "Let’s spark conversations together",
+      "description": "",
+      "button": {
+        "ID": "872d263b-fe72-411d-b7c4-230eadea6004",
+        "label": "Schedule a call",
+        "link": "/contact",
+        "icon": "ri-arrow-right-up-line",
+        "createdAt": 1658827016170
+      },
+      "createdAt": 1658826992703,
+      "updatedAt": 1690548657874
+    },
+    "createdAt": 1658826900574,
+    "ID": "b4871e6d-2993-46f3-8936-4eaab0072322",
+    "metaData": {
+      "ID": "4971678b-936d-429a-b3ba-bdf71a3827c0",
+      "title": "Wordify - Services",
+      "tags": [
+        {
+          "ID": "33537d21-2251-4e71-b0db-a2c3c8241213",
+          "name": "description",
+          "content": "Wordify - Services",
+          "createdAt": 1659300099189,
+          "type": "default",
+          "updatedAt": 1660132117000
+        }
+      ],
+      "createdAt": 1659300053308
+    }
+  }
+]

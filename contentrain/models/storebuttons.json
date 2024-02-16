@@ -1,0 +1,98 @@
+[
+  {
+    "name": "createdAt",
+    "fieldId": "createdAt",
+    "componentId": "date",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "system": true,
+    "defaultField": false,
+    "modelId": "storebuttons"
+  },
+  {
+    "name": "updatedAt",
+    "fieldId": "updatedAt",
+    "componentId": "date",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "system": true,
+    "defaultField": false,
+    "modelId": "storebuttons"
+  },
+  {
+    "name": "ID",
+    "fieldId": "ID",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "system": true,
+    "defaultField": false,
+    "modelId": "storebuttons"
+  },
+  {
+    "name": "status",
+    "fieldId": "status",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "system": true,
+    "defaultField": false,
+    "modelId": "storebuttons"
+  },
+  {
+    "name": "src",
+    "fieldId": "src",
+    "modelId": "storebuttons",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
+  },
+  {
+    "name": "alt",
+    "fieldId": "alt",
+    "modelId": "storebuttons",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "link",
+    "fieldId": "link",
+    "modelId": "storebuttons",
+    "componentId": "url",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "index",
+    "fieldId": "index",
+    "modelId": "storebuttons",
+    "componentId": "integer",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "ID": "48c4a2345b2c",
+    "createdAt": "Thu Feb 15 2024 22:12:22 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-15T19:12:58.093Z",
+    "src": "public/img/1708023115868_holding.svg",
+    "alt": "visivi referans",
+    "index": 2,
+    "status": "publish",
+    "scheduled": false
+  },
+  {
+    "ID": "b29c06afd7b5",
+    "createdAt": "Thu Feb 15 2024 22:12:46 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-15T19:12:58.108Z",
+    "src": "public/img/1708023133107_iletisim.svg",
+    "alt": "visivi referans",
+    "index": 4,
+    "status": "publish",
+    "scheduled": false
+  },
+  {
+    "ID": "b5e3df9f9499",
+    "createdAt": "Thu Feb 15 2024 22:12:02 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-15T19:12:58.123Z",
+    "src": "public/img/1708023105180_agentr.svg",
+    "alt": "visivi referans ",
+    "index": 1,
+    "status": "publish",
+    "scheduled": false
+  },
+  {
+    "ID": "b90c23a4ecae",
+    "createdAt": "Thu Feb 15 2024 22:12:37 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-15T19:12:58.133Z",
+    "src": "public/img/1708023125230_turkcell.svg",
+    "alt": "visivi referans",
+    "index": 3,
+    "status": "publish",
+    "scheduled": false
+  }
+]

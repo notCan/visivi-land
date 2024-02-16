@@ -1,0 +1,98 @@
+[
+  {
+    "name": "createdAt",
+    "fieldId": "createdAt",
+    "componentId": "date",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "system": true,
+    "defaultField": false,
+    "modelId": "navigasyon"
+  },
+  {
+    "name": "updatedAt",
+    "fieldId": "updatedAt",
+    "componentId": "date",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "system": true,
+    "defaultField": false,
+    "modelId": "navigasyon"
+  },
+  {
+    "name": "ID",
+    "fieldId": "ID",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "system": true,
+    "defaultField": false,
+    "modelId": "navigasyon"
+  },
+  {
+    "name": "status",
+    "fieldId": "status",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "system": true,
+    "defaultField": false,
+    "modelId": "navigasyon"
+  },
+  {
+    "name": "name",
+    "fieldId": "name",
+    "modelId": "navigasyon",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "link",
+    "fieldId": "link",
+    "modelId": "navigasyon",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "isbutton",
+    "fieldId": "isbutton",
+    "modelId": "navigasyon",
+    "componentId": "switch",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "index",
+    "fieldId": "index",
+    "modelId": "navigasyon",
+    "componentId": "integer",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
+  }
+]

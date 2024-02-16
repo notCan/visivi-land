@@ -1,0 +1,153 @@
+[
+  {
+    "appHero": {
+      "ID": "be42e97e-4243-48b3-b92c-08275a55f421",
+      "title": "More than a copywriting service",
+      "subtitle": "Impactful Content",
+      "description": "Wordify prides itself on integrating seamlessly into marketing teams via regular calls and constant collaboration. Our aim is to extract your brand’s voice and infuse it into the content we produce.",
+      "media": {
+        "ID": "75bf34f7-4f21-4d0d-8c00-2c94a537ab1d",
+        "src": "public/img/1659074615180_background.avif",
+        "alt": "background",
+        "createdAt": 1659074620193
+      },
+      "logo": {
+        "ID": "e7194e16-2538-43ef-8e58-e3b722f6435d",
+        "src": "public/img/1659074654137_logo-brand.svg",
+        "alt": "logo",
+        "link": "/",
+        "createdAt": 1659074661686
+      },
+      "createdAt": 1658826927570,
+      "updatedAt": 1659090335719
+    },
+    "details": {
+      "ID": "a5f6e083-88f1-474e-b6c3-780a75b608a5",
+      "first": {
+        "ID": "a2759090-d30c-4ee3-ad83-7f3071e3308c",
+        "value": "55,000",
+        "description": "Words written every month.",
+        "createdAt": 1658827543552,
+        "updatedAt": 1660568398178
+      },
+      "second": {
+        "ID": "1c57e7bb-77ab-4659-8cf9-b793eac757e1",
+        "value": 6000,
+        "description": "Articles and white papers published.",
+        "createdAt": 1658827576018,
+        "updatedAt": 1660568384829
+      },
+      "third": {
+        "ID": "faa352aa-93ca-4b77-bde7-8de3a448a8d3",
+        "value": 7,
+        "description": "Years of experience in the headless CMS industry.",
+        "createdAt": 1658827596803,
+        "updatedAt": 1660568424805
+      },
+      "createdAt": 1658827520592,
+      "updatedAt": 1658827555943
+    },
+    "sections": [
+      {
+        "ID": "3ee9a5dd-556e-4626-b14b-0d42c878eee9",
+        "title": "Copywriting",
+        "description": "<p>From blog posts to white papers, we have written millions of words for headless CMS and Digital Experience Platforms. </p><p><br></p><p>Our writers leverage market-leading content marketing technologies such as Ahrefs and Grammarly to ensure SEO optimization, excellent grammar, and effortless readability.</p>",
+        "media": {
+          "ID": "b901e215-b1ba-4f94-bb95-66791341185f",
+          "src": "public/img/1660056935542_copywriting.svg",
+          "alt": "section",
+          "createdAt": 1659074174169,
+          "updatedAt": 1660056937060
+        },
+        "button": {
+          "ID": "f3ebba9b-70fc-4790-96af-290710392528",
+          "label": "Schedule a call",
+          "link": "/contact",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1658827224776,
+          "updatedAt": 1659090435294
+        },
+        "index": 1,
+        "createdAt": 1658827081344,
+        "updatedAt": 1660059081017
+      },
+      {
+        "ID": "b8a315ee-02c4-4c3b-97f1-309a36ba104d",
+        "title": "Seo research & traffic monitoring",
+        "description": "<p>Producing content is one thing, but measuring the success of your content should be high on your list of priorities. </p><p><br></p><p>Wordify gives its clients a helping hand in this regard, leveraging enterprise-grade technologies to monitor SEO progress and website health every month.</p>",
+        "media": {
+          "ID": "d575104f-c2f5-441b-b90f-f16e77462b50",
+          "src": "public/img/1660056949537_seo research.svg",
+          "alt": "study",
+          "createdAt": 1659074198285,
+          "updatedAt": 1660056950854
+        },
+        "button": {
+          "ID": "b9875648-fc96-47d7-92ce-3453b95ac342",
+          "label": "Schedule a call",
+          "link": "/contact",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1658827382175,
+          "updatedAt": 1659090445962
+        },
+        "index": 2,
+        "createdAt": 1658827103577,
+        "updatedAt": 1660059088643
+      },
+      {
+        "ID": "3376f8b3-b092-47a3-933c-6c759aca725e",
+        "title": "Social media content",
+        "description": "<p>Looking to take LinkedIn by storm? As a company in the headless CMS space, you should be. </p><p><br></p><p>We work closely with our clients via fortnightly strategy calls, which organically lead to insights and quotes that can easily be expanded upon. Perfect for your next LinkedIn post or Twitter thread.</p>",
+        "media": {
+          "ID": "0670ee5d-e3e7-44f2-bc0f-261f459c4a81",
+          "src": "public/img/1660056963069_social media content.svg",
+          "alt": "study",
+          "createdAt": 1659074213806,
+          "updatedAt": 1660056964033
+        },
+        "button": {
+          "ID": "a6e07ecf-743e-4deb-9309-4062f8bf1159",
+          "label": "Schedule a call",
+          "link": "/contact",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1658827449802,
+          "updatedAt": 1659090466242
+        },
+        "index": 3,
+        "createdAt": 1658827127553,
+        "updatedAt": 1660059096359
+      }
+    ],
+    "banner": {
+      "ID": "674ae5c8-b463-4e1f-b40f-c834088b7ae5",
+      "title": "Let’s spark conversations together",
+      "description": "Ready to amplify the voice of your Headless CMS",
+      "button": {
+        "ID": "872d263b-fe72-411d-b7c4-230eadea6004",
+        "label": "Schedule a call",
+        "link": "/contact",
+        "icon": "ri-arrow-right-up-line",
+        "createdAt": 1658827016170
+      },
+      "createdAt": 1658826992703,
+      "updatedAt": 1690457790567
+    },
+    "createdAt": 1659076603803,
+    "ID": "be8ee14b-0236-4b8d-ad9f-d2afd4b71e02",
+    "metaData": {
+      "ID": "ac0cde16-46b7-469e-96c1-7a0e29b8e045",
+      "title": "Wordify - Impactful Content",
+      "tags": [
+        {
+          "ID": "aaf92b79-e78a-4c6f-8ed7-8f568eef4937",
+          "name": "description",
+          "content": "Wordify - Impactful Content",
+          "createdAt": 1659300037498,
+          "type": "default",
+          "updatedAt": 1660132104236
+        }
+      ],
+      "createdAt": 1659300021630
+    }
+  }
+]

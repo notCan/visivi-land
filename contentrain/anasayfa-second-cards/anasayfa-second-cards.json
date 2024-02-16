@@ -1,0 +1,32 @@
+[
+  {
+    "ID": "00e36a0ea636",
+    "createdAt": "Thu Feb 15 2024 21:54:35 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-15T18:55:17.663Z",
+    "title": "Profilini Oluştur",
+    "description": "Visivi'de ilk adımınız, kendinizi tanıtan bir profil oluşturmak. Bu profil, işverenlerin sizi daha iyi tanıması ve yeteneklerinizi anlaması için temel bilgilerinizi içermeli.",
+    "index": 1,
+    "status": "publish",
+    "scheduled": false
+  },
+  {
+    "ID": "68708d40bd5a",
+    "createdAt": "Thu Feb 15 2024 21:54:50 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-15T18:55:17.678Z",
+    "title": "Videonu Çek",
+    "description": "Profilinizi tamamladıktan sonra sıra, kendinizi işverenlere tanıtacak kısa bir video çekmeye geliyor. Bu videoyu, CV'nizin canlı bir versiyonu gibi düşünülebilirsiniz.",
+    "index": 2,
+    "status": "publish",
+    "scheduled": false
+  },
+  {
+    "ID": "8667bff363c9",
+    "createdAt": "Thu Feb 15 2024 21:55:03 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-15T18:55:17.689Z",
+    "title": "Uygun İlanlara hemen Başvur!",
+    "description": "Video hazır olduğunda, ilginizi çeken iş ilanlarına başvurabilirsiniz. Video ve profilinizle desteklenmiş başvurunuz, işverenlere sizi daha yakından tanıma fırsatı sunacak. ",
+    "index": 3,
+    "status": "publish",
+    "scheduled": false
+  }
+]

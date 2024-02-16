@@ -1,0 +1,407 @@
+[
+  {
+    "hero": {
+      "ID": "8ce463ea-a80f-4c7c-90b7-637d1e8a129f",
+      "title": "We ignite demand for software.",
+      "description": "Create and capture demand with LinkedIn content, blog posts, sales decks, and everything in between.",
+      "media": {
+        "ID": "cc78c183-b5c3-4c8a-a279-33aa0ef76de6",
+        "src": "public/img/1660162214661_home.svg",
+        "alt": "Wordify hero",
+        "createdAt": 1658919947916,
+        "updatedAt": 1660162216001
+      },
+      "button": {
+        "ID": "3ae11654-552b-4e06-98c9-e5bd4326ede2",
+        "label": "Schedule a call",
+        "link": "/contact",
+        "icon": "ri-arrow-right-up-line",
+        "createdAt": 1658919848666,
+        "updatedAt": 1660573671512
+      },
+      "createdAt": 1658919814151,
+      "updatedAt": 1705997164939
+    },
+    "references": {
+      "media": [
+        {
+          "ID": "99555223-b10c-4c57-9513-bda90516d103",
+          "src": "public/img/1659948387994_Shopify.svg",
+          "alt": "Shopify",
+          "createdAt": 1658920200427,
+          "updatedAt": 1659948389743
+        },
+        {
+          "ID": "5d61cd9b-99df-445a-9862-bf7cce08c4b8",
+          "src": "public/img/1659948401347_storyblok.svg",
+          "alt": "Storyblok",
+          "createdAt": 1658920221596,
+          "updatedAt": 1659948403580
+        },
+        {
+          "ID": "ebbf4359-2a24-49ee-9aa3-0c6239db04c9",
+          "src": "public/img/1659948414132_liferay.svg",
+          "alt": "Liferay",
+          "createdAt": 1658920242338,
+          "updatedAt": 1659948415355
+        },
+        {
+          "ID": "7ad29852-40fd-4d4e-bad7-04e7beb3ad22",
+          "src": "public/img/1659948425316_coredna.svg",
+          "alt": "Coredna",
+          "createdAt": 1658920257772,
+          "updatedAt": 1659948426557
+        }
+      ],
+      "createdAt": 1658823195353,
+      "ID": "24bb1890-29b4-4b9d-9faf-53580c82a02e",
+      "title": "Trusted by",
+      "updatedAt": 1658988930776
+    },
+    "features": {
+      "ID": "df7ecc29-2aef-4137-b3cf-a16ff81f1422",
+      "title": "Diligent Research. Intelligent Content. Increased Demand. ",
+      "description": "Dominate your industry's narrative with hard-hitting content.",
+      "cards": [
+        {
+          "ID": "b2cbc358-186d-4daf-ac1a-c0804819de64",
+          "icon": "",
+          "title": "Demand Generation",
+          "description": "Build revenue-generating demand by owning your industry's narrative on social media. Cold-calling is out, being remembered is in. ",
+          "button": {
+            "ID": "c77a68f7-a56d-4156-bb62-21b5df98bd7d",
+            "label": "Learn more",
+            "link": "/contact",
+            "icon": "ri-arrow-right-line",
+            "createdAt": 1658823478536,
+            "updatedAt": 1695668960640
+          },
+          "createdAt": 1658823273437,
+          "media": {
+            "ID": "a64c6495-cb78-4551-9447-ac71411318fc",
+            "src": "public/img/1658921761411_ct-strategy-icon.svg",
+            "alt": "strategy",
+            "createdAt": 1658921777636
+          },
+          "updatedAt": 1705997828265
+        },
+        {
+          "ID": "7453aa7f-5464-421d-80b3-649741308f7a",
+          "icon": "",
+          "title": "Content Production",
+          "description": "From blog posts to industry newsletters. We'll pave every step of the customer journey with your thought leadership.",
+          "button": {
+            "ID": "ddd34633-b307-4775-92b9-855832b23710",
+            "label": "Learn more",
+            "link": "/contact",
+            "icon": "ri-arrow-right-line",
+            "createdAt": 1658823517936,
+            "updatedAt": 1695668980301
+          },
+          "createdAt": 1658823289004,
+          "media": {
+            "ID": "2655d7da-3a9d-4876-bdf6-6391e802010b",
+            "src": "public/img/1658921808032_ct-marketing-icon.svg",
+            "alt": "marketing",
+            "createdAt": 1658921812657
+          },
+          "updatedAt": 1705997739501
+        },
+        {
+          "ID": "3c434900-1c1b-4ee4-b51e-01d11f013239",
+          "icon": "",
+          "title": "Strategy & Optimization",
+          "description": "Optimize your messaging to thrive in any industry, search engine, or app ecosystem. ",
+          "button": {
+            "ID": "82e0992b-fe3c-4d1d-8633-3a8c1fba29e0",
+            "label": "Learn more",
+            "link": "/contact",
+            "icon": "ri-arrow-right-line",
+            "createdAt": 1658823553199,
+            "updatedAt": 1695668993276
+          },
+          "createdAt": 1658823306705,
+          "media": {
+            "ID": "906a4577-2c88-4aba-9f45-b2b33441e161",
+            "src": "public/img/1658921837338_ct-repurpising-icon.svg",
+            "alt": "repurposing",
+            "createdAt": 1658921853093
+          },
+          "updatedAt": 1706637571342
+        }
+      ],
+      "createdAt": 1658823244249,
+      "updatedAt": 1695668632744
+    },
+    "banner": {
+      "ID": "262c4581-ec5a-492d-b423-b08af6118c31",
+      "title": "Let’s spark conversations together",
+      "description": "",
+      "button": {
+        "ID": "6cd20865-3e27-40bf-ade3-9b9a99491a6b",
+        "label": "Schedule a call",
+        "link": "/contact",
+        "icon": "arrow-right-up",
+        "createdAt": 1658823638682
+      },
+      "createdAt": 1658823600504,
+      "updatedAt": 1660568639944
+    },
+    "studies": {
+      "ID": "dc61d2d1-699b-4bc2-a45b-d9dff7e757c4",
+      "title": "12+ years in the software realm",
+      "description": "Building a brand in the software space is hard. We've always made it look easy. ",
+      "cards": [
+        {
+          "ID": "3b4dfea3-aeaf-4bd3-b868-7d8d40a0b99c",
+          "title": "Shopify 🤝 Wordify: Expertly executing numerous content projects",
+          "media": {
+            "ID": "39333010-2d73-4659-8c1e-8694af94ea3b",
+            "src": "public/img/1659948301461_home_shopify_casestudy.svg",
+            "alt": "case study 1",
+            "createdAt": 1658922286438,
+            "updatedAt": 1659948303127
+          },
+          "button": {
+            "ID": "25322fdc-a0e7-43a7-a9cf-6a9acfae76d0",
+            "label": "Read case study",
+            "link": "/blog/shopify",
+            "icon": "ri-arrow-right-up-line",
+            "createdAt": 1658823769272,
+            "updatedAt": 1659518509308
+          },
+          "createdAt": 1658823717404,
+          "updatedAt": 1660573569590
+        },
+        {
+          "ID": "303b2233-2228-4392-8a35-40b0722c8753",
+          "title": "Liferay 🤝 Wordify: Educating the UK public sector",
+          "media": {
+            "ID": "a84e264f-9e39-4199-a1de-4e5abdac2000",
+            "src": "public/img/1659948322506_home_liferay_casestudy.svg",
+            "alt": "case study 2",
+            "createdAt": 1658922319274,
+            "updatedAt": 1659948323774
+          },
+          "button": {
+            "ID": "3b1e600a-fad1-4826-9a48-c1abaa9e4413",
+            "label": "Read case study",
+            "link": "/blog/liferay",
+            "icon": "ri-arrow-right-up-line",
+            "createdAt": 1658823903597,
+            "updatedAt": 1659518519550
+          },
+          "createdAt": 1658823727032
+        },
+        {
+          "ID": "8d046db4-c170-4102-9243-2e33c48a1e00",
+          "title": "Core DNA 🤝 Wordify: Skyrocketing organic traffic by 227%",
+          "media": {
+            "ID": "1cf42680-bd32-4b5a-be7a-91d1e9ebef03",
+            "src": "public/img/1659948339667_home_coredna_casestudy.svg",
+            "alt": "case study 3",
+            "createdAt": 1658922339313,
+            "updatedAt": 1659948340929
+          },
+          "button": {
+            "ID": "5892a084-53a7-4a4d-902d-0036f01cf311",
+            "label": "Read case study",
+            "link": "/blog/coredna",
+            "icon": "ri-arrow-right-up-line",
+            "createdAt": 1658823949986,
+            "updatedAt": 1659518530901
+          },
+          "createdAt": 1658823733398
+        }
+      ],
+      "createdAt": 1658823698486,
+      "updatedAt": 1695668010917
+    },
+    "testimonials": {
+      "ID": "5c83cae9-744b-43fa-a4a2-51f95c0bc084",
+      "title": "Trusted by industry leaders",
+      "description": "We know the market, and the market knows us. ",
+      "cards": [
+        {
+          "ID": "fe5b557a-b6ce-4cfc-a654-287f335e4968",
+          "icon": "ri-double-quotes-l",
+          "quote": "Wordify is fast, reliable, and passionate. They actually care about creating good content.",
+          "author": "Evan Ferguson, Shopify",
+          "createdAt": 1658922476812
+        },
+        {
+          "ID": "d7195749-a0cf-4d39-ac9f-b8d474d977b1",
+          "icon": "ri-double-quotes-l",
+          "quote": "Wordify is responsive, fast, and they produce good content based on reliable research.",
+          "author": "Sylvia Assumpcao, Liferay Inc.",
+          "createdAt": 1658922499251
+        },
+        {
+          "ID": "a84c897a-e337-4c7b-b45b-424bc6b103e0",
+          "icon": "ri-double-quotes-l",
+          "quote": "Wordify is extremely valuable to us. Their ideas push our content in better directions.",
+          "author": "Christen Daniels, Authentic",
+          "createdAt": 1658922521010
+        }
+      ],
+      "createdAt": 1658826416467,
+      "updatedAt": 1689499948925
+    },
+    "createdAt": 1658823083929,
+    "ID": "4aa3cdba-88cf-4733-9ab6-4a2a40095cc5",
+    "bannerFull": {
+      "ID": "4cb9cb41-5589-4ceb-98aa-fa6b70306807",
+      "title": "Content for the entire customer journey.",
+      "button": {
+        "ID": "f9b8a54f-3ac5-4668-a293-aacb51bea4a4",
+        "label": "Schedule a call",
+        "link": "/contact",
+        "icon": "ri-arrow-right-up-line",
+        "createdAt": 1658920825648,
+        "updatedAt": 1659520881734
+      },
+      "list": [
+        {
+          "ID": "e63bb265-a9dd-44a8-b438-9bdfc504053f",
+          "description": "We'll work closely with your team to churn out content that aligns with your company's experience and vision. ",
+          "createdAt": 1658920838589,
+          "updatedAt": 1705998052320
+        },
+        {
+          "ID": "9d23d416-4a13-4a5e-848a-481423fd263b",
+          "description": "Dominate your industry's narrative on LinkedIn and X. It's high time your brand went above and beyond cold emails. ",
+          "createdAt": 1658920849122,
+          "updatedAt": 1706637774778
+        },
+        {
+          "ID": "a6cb1409-96c9-4538-ad6f-3d4dc986362b",
+          "description": "Educate your audience with multiple content types, including blog content, white papers, sales decks, and more. ",
+          "createdAt": 1660568855684,
+          "updatedAt": 1706637881528
+        }
+      ],
+      "media": {
+        "ID": "d674e86c-f3a4-4c01-8914-d07c37fc1212",
+        "src": "public/img/1659948271005_shopify_iphone.svg",
+        "alt": "banner full",
+        "createdAt": 1658920873021,
+        "updatedAt": 1659948273119
+      },
+      "createdAt": 1658920808013,
+      "backgroundImage": {
+        "ID": "8ba5f010-8305-4a5b-9258-9eb88cf8f50c",
+        "src": "public/img/1658989080844_wordify-bg-logo.png",
+        "alt": "Background Image",
+        "createdAt": 1658989089350
+      },
+      "updatedAt": 1705997326648
+    },
+    "metaData": {
+      "ID": "070685fd-f9e7-4301-9ef6-8072bfaa3076",
+      "title": "Wordify",
+      "tags": [
+        {
+          "ID": "44101b52-35d0-4b95-952f-545dad4828c2",
+          "name": "description",
+          "content": "Demand Generation for the Composable Software Industry. ",
+          "createdAt": 1659298484255,
+          "type": "global",
+          "updatedAt": 1683103497818
+        },
+        {
+          "ID": "a99daab0-0f0c-4a5f-b64b-bf8cec8122cb",
+          "name": "title",
+          "content": "Wordify",
+          "type": "global",
+          "createdAt": 1660111568325
+        },
+        {
+          "ID": "d0524406-1441-49a7-88d5-447d55848067",
+          "name": "url",
+          "content": "https://www.wordify.co",
+          "type": "global",
+          "createdAt": 1660111586836
+        },
+        {
+          "ID": "f47f2d45-18f2-4a6b-9d5d-466b5ae2c954",
+          "name": "image",
+          "content": "/img/meta-image.png",
+          "type": "global",
+          "createdAt": 1660111620252,
+          "updatedAt": 1660226088448
+        },
+        {
+          "ID": "a0eeeea0-f938-4c25-875e-406b9f00ca68",
+          "name": "og:site_name",
+          "content": "Wordify",
+          "type": "og",
+          "createdAt": 1660111743358
+        },
+        {
+          "ID": "98e04887-8bfb-422a-8c4c-4088742c7451",
+          "name": "og:type",
+          "content": "website",
+          "type": "og",
+          "createdAt": 1660111762769
+        },
+        {
+          "ID": "76e757ac-d1eb-49e5-9e10-1d3468553759",
+          "name": "og:image:width",
+          "content": "1200",
+          "type": "og",
+          "createdAt": 1660111775502
+        },
+        {
+          "ID": "c79579b7-e0f6-4f5a-9b81-856e17327a88",
+          "name": "og:image:height",
+          "content": "1200",
+          "type": "og",
+          "createdAt": 1660111785489
+        },
+        {
+          "ID": "103c0a06-06ad-40a1-bd2f-87d19bc2bbc8",
+          "name": "name",
+          "content": "Wordify",
+          "type": "schema",
+          "createdAt": 1660111944909
+        },
+        {
+          "ID": "626f6888-a3be-46f4-8c7c-42505f399b34",
+          "name": "thumbnailUrl",
+          "content": "/img/meta-image.png",
+          "type": "schema",
+          "createdAt": 1660111971337,
+          "updatedAt": 1660226106222
+        },
+        {
+          "ID": "d5b9998e-b7f2-4087-8534-1f312e1618ce",
+          "name": "twitter:card",
+          "content": "summary",
+          "type": "twitter",
+          "createdAt": 1660112032001,
+          "updatedAt": 1660112998680
+        },
+        {
+          "ID": "7258a2fb-82ad-4eb9-9530-ca42e5adb422",
+          "name": "description",
+          "content": "The content marketing agency for the headless CMS industry.",
+          "type": "default",
+          "createdAt": 1660131822980
+        },
+        {
+          "ID": "83f6361d-1fd8-4e54-8b08-fca9ddd06146",
+          "name": "theme-color",
+          "content": "#33C0CB",
+          "type": "default",
+          "createdAt": 1660225499583
+        }
+      ],
+      "createdAt": 1659293787626,
+      "types": [
+        "open-graph",
+        "global",
+        "twitter"
+      ]
+    }
+  }
+]

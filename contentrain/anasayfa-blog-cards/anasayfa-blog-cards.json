@@ -1,0 +1,13 @@
+[
+  {
+    "ID": "5a78c3ca60c0",
+    "createdAt": "Thu Feb 15 2024 21:53:22 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Thu Feb 15 2024 21:53:22 GMT+0300 (GMT+03:00)",
+    "title": "İşe alım süreçleri ile ilgili her şey Blog sayfamızda!",
+    "description": "En yeni işe alım trendleri, etkili mülakat teknikleri ve başarılı işe alım stratejileri hakkında bilgileri, uzman görüşleri ve ipuçlarını blog sayfamızda keşfedin. İşe alım sürecinizi dönüştürecek içerikler burada!",
+    "imagesrc": "public/img/1659074615180_background.avif",
+    "imagealt": "blog page hero",
+    "status": "publish",
+    "scheduled": false
+  }
+]

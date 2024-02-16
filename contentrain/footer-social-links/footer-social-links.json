@@ -1,0 +1,32 @@
+[
+  {
+    "ID": "27922de0b46f",
+    "createdAt": "Fri Feb 16 2024 11:29:22 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-16T08:30:39.953Z",
+    "name": "instagram",
+    "link": "https://www.instagram.com/visivi.co/",
+    "index": 1,
+    "status": "publish",
+    "scheduled": false
+  },
+  {
+    "ID": "4db49be2bec6",
+    "createdAt": "Fri Feb 16 2024 11:29:41 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-16T08:30:39.967Z",
+    "name": "twitter",
+    "link": "https://twitter.com/visivico",
+    "index": 2,
+    "status": "publish",
+    "scheduled": false
+  },
+  {
+    "ID": "fe922302a859",
+    "createdAt": "Fri Feb 16 2024 11:30:13 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-02-16T08:30:39.980Z",
+    "name": "linkedin",
+    "link": "https://www.linkedin.com/company/visiviapp/",
+    "index": 2,
+    "status": "publish",
+    "scheduled": false
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "logo": {
+      "ID": "62cc4a23-0b5f-4e8d-9973-c5663aff6ce0",
+      "src": "public/img/1659074336858_logo-brand.svg",
+      "alt": "logo",
+      "link": "/",
+      "createdAt": 1659074343496
+    },
+    "navigation": {
+      "list": [
+        {
+          "ID": "63f0c96a-6a8e-41cb-8b04-e4d2972fe418",
+          "name": "Home",
+          "link": "/",
+          "createdAt": 1658822692906
+        },
+        {
+          "ID": "ea854f1e-a01d-41cf-8a0a-5b3e7403ed19",
+          "name": "Blog",
+          "link": "/blog",
+          "createdAt": 1658822750121
+        }
+      ],
+      "createdAt": 1658822672128,
+      "ID": "9d74370d-d139-4a35-937b-541ca61953e5"
+    },
+    "button": {
+      "ID": "71df8f8d-36bf-457a-8f97-b8a5bdafbeb6",
+      "label": "İletişim",
+      "link": "/iletisim",
+      "icon": "",
+      "createdAt": 1658822783576
+    },
+    "createdAt": 1658822666928,
+    "ID": "2f1937d4-49b3-42d0-a257-7d44309eb9ef"
+  }
+]

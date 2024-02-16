@@ -1,0 +1,54 @@
+[
+  {
+    "summary": {
+      "ID": "d280bc0d-0d11-4fb0-afe7-d1441db2bf26",
+      "title": "Our Expertise",
+      "description": "<p>Visit our Composable Software Marketplace&nbsp;<a href=\"http://DXP360.com\" rel=\"noopener noreferrer\" target=\"_blank\">DXP360.com</a>.</p>",
+      "createdAt": 1658822883288,
+      "updatedAt": 1689575325220
+    },
+    "socialLinks": {
+      "ID": "603df65b-6e87-4555-af39-db31df1496c8",
+      "title": "Follow Us",
+      "list": [
+        {
+          "ID": "cd77fb8a-7189-4427-9d0b-eb3417fe2f97",
+          "icon": "ri-instagram-line",
+          "URL": "https://www.instagram.com/wordify.co/",
+          "createdAt": 1658988598887,
+          "updatedAt": 1660107108203
+        },
+        {
+          "ID": "5cef6141-6e82-4d77-8ffe-18820669979f",
+          "icon": "ri-linkedin-line",
+          "URL": "https://www.linkedin.com/company/wordify-co/",
+          "createdAt": 1658988612696,
+          "updatedAt": 1660107141186
+        },
+        {
+          "ID": "424fe8d1-ba9e-4617-84f1-9ef78a9b264a",
+          "icon": "ri-twitter-line",
+          "URL": "https://twitter.com/wordifyco",
+          "createdAt": 1658988625766,
+          "updatedAt": 1660107068608
+        },
+        {
+          "ID": "ed445b96-7d96-422d-87a2-364ffb3ee7e0",
+          "icon": "ri-youtube-line",
+          "URL": "https://www.youtube.com/channel/UCrSvaijgz_U7xGaMivujIcA",
+          "createdAt": 1658988636798,
+          "updatedAt": 1660108792315
+        }
+      ],
+      "createdAt": 1658988567169
+    },
+    "siteMap": {
+      "ID": "ef37313f-e40b-49a2-b739-3ac727dd4fa6",
+      "title": "Studies",
+      "list": [],
+      "createdAt": 1658822954458
+    },
+    "createdAt": 1658822804997,
+    "ID": "f90d9cb3-5e09-47bf-bf1f-fef80c24d8c5"
+  }
+]

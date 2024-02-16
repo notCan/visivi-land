@@ -1,0 +1,151 @@
+[
+  {
+    "appHero": {
+      "ID": "be42e97e-4243-48b3-b92c-08275a55f421",
+      "title": "How are you making your Headless CMS stand out?",
+      "subtitle": "Content Strategy",
+      "description": "Wordify conducts thorough research, including discovery calls, keyword research, and competitor analysis,  to build a documented content strategy that’s in line with your brand’s products, values, and vision. ",
+      "media": {
+        "ID": "75bf34f7-4f21-4d0d-8c00-2c94a537ab1d",
+        "src": "public/img/1659521719986_big-banner-bg.png",
+        "alt": "wordify banner background image",
+        "createdAt": 1659074620193,
+        "updatedAt": 1659521732257
+      },
+      "logo": {
+        "ID": "e7194e16-2538-43ef-8e58-e3b722f6435d",
+        "src": "public/img/1659074654137_logo-brand.svg",
+        "alt": "logo",
+        "link": "/",
+        "createdAt": 1659074661686
+      },
+      "createdAt": 1658826927570,
+      "updatedAt": 1659089622902
+    },
+    "details": {
+      "ID": "a5f6e083-88f1-474e-b6c3-780a75b608a5",
+      "first": {
+        "ID": "a2759090-d30c-4ee3-ad83-7f3071e3308c",
+        "value": "55",
+        "description": "Words written every month.",
+        "createdAt": 1658827543552,
+        "updatedAt": 1660160961672
+      },
+      "second": {
+        "ID": "1c57e7bb-77ab-4659-8cf9-b793eac757e1",
+        "value": 55,
+        "description": "Articles and white papers published.",
+        "createdAt": 1658827576018,
+        "updatedAt": 1660160982980
+      },
+      "third": {
+        "ID": "faa352aa-93ca-4b77-bde7-8de3a448a8d3",
+        "value": 7,
+        "description": "Years of experience in the headless CMS industry.",
+        "createdAt": 1658827596803,
+        "updatedAt": 1660161003469
+      },
+      "createdAt": 1658827520592,
+      "updatedAt": 1658827555943
+    },
+    "sections": [
+      {
+        "ID": "3ee9a5dd-556e-4626-b14b-0d42c878eee9",
+        "title": "A documented content strategy",
+        "description": "<p>Not sure what kind of content you should be creating? Wordify can help map out your strategy.</p><p><br></p><p>Wordify conducts thorough research, including discovery calls, keyword research, and competitor analysis,  to build a documented content strategy that’s in line with your brand’s products, values, and vision. </p>",
+        "media": {
+          "ID": "b901e215-b1ba-4f94-bb95-66791341185f",
+          "src": "public/img/1660056595405_a documented content strategy.svg",
+          "alt": "section",
+          "createdAt": 1659074174169,
+          "updatedAt": 1660056597194
+        },
+        "button": {
+          "ID": "d3691ccb-5513-4ad3-a88b-6481975071cc",
+          "label": "Schedule a call",
+          "link": "/contact",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1659089807357
+        },
+        "index": 1,
+        "createdAt": 1658827081344,
+        "updatedAt": 1659682392746
+      },
+      {
+        "ID": "b8a315ee-02c4-4c3b-97f1-309a36ba104d",
+        "title": "Fortnightly strategy calls",
+        "description": "<p>To integrate the Wordify team into your marketing team, we hold content strategy calls every two weeks.</p><p><br></p><p>The calls serve as an environment for both teams to convene, analyze trends, discuss content ideas, explore new strategies, and re-purpose older content to match the guidelines set out in your content strategy document. </p>",
+        "media": {
+          "ID": "d575104f-c2f5-441b-b90f-f16e77462b50",
+          "src": "public/img/1660056620513_Fortnightly strategy calls.svg",
+          "alt": "study",
+          "createdAt": 1659074198285,
+          "updatedAt": 1660056621705
+        },
+        "button": {
+          "ID": "0ec1bfe6-906e-4bf8-8033-0b821eefa32a",
+          "label": "Schedule a call",
+          "link": "/contact",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1659089825300
+        },
+        "index": 2,
+        "createdAt": 1658827103577,
+        "updatedAt": 1659682408079
+      },
+      {
+        "ID": "3376f8b3-b092-47a3-933c-6c759aca725e",
+        "title": "Content marketing funnels",
+        "description": "<p>As part of your content strategy, Wordify always recommends building content funnels to push your audience towards gated content, landing pages, and product demos.</p><p><br></p><p>These funnels are made up of top-of-funnel content like blog posts, middle-of-funnel content like white papers, and bottom-of-funnel content like case studies. This is key for both headless CMS vendors and agencies working with headless technology. </p>",
+        "media": {
+          "ID": "0670ee5d-e3e7-44f2-bc0f-261f459c4a81",
+          "src": "public/img/1660056644267_Content marketing funnels.svg",
+          "alt": "study",
+          "createdAt": 1659074213806,
+          "updatedAt": 1660056645569
+        },
+        "button": {
+          "ID": "4a1c9d98-3787-4fe3-bd9d-673ddc7ef9bf",
+          "label": "Schedule a call",
+          "link": "/contact",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1659089836548
+        },
+        "index": 3,
+        "createdAt": 1658827127553,
+        "updatedAt": 1659682418754
+      }
+    ],
+    "banner": {
+      "ID": "674ae5c8-b463-4e1f-b40f-c834088b7ae5",
+      "title": "Let’s spark conversations together",
+      "description": "Ready to amplify the voice of your Headless CMS",
+      "button": {
+        "ID": "872d263b-fe72-411d-b7c4-230eadea6004",
+        "label": "Schedule a call",
+        "link": "/contact",
+        "icon": "ri-arrow-right-up-line",
+        "createdAt": 1658827016170
+      },
+      "createdAt": 1658826992703,
+      "updatedAt": 1659089882124
+    },
+    "createdAt": 1659076594307,
+    "ID": "a3304d20-45cc-4486-b889-ac360b244343",
+    "metaData": {
+      "ID": "ec9ce529-90b2-4c06-971e-6d6ede0173cb",
+      "title": "Wordify - Content Strategy",
+      "tags": [
+        {
+          "ID": "7e69fc54-1ccf-4717-aaad-914c4c023da0",
+          "name": "description",
+          "content": "Wordify - Content Strategy",
+          "createdAt": 1659299998101,
+          "type": "default",
+          "updatedAt": 1660132090937
+        }
+      ],
+      "createdAt": 1659299982611
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "ID": "5a21a9f778da",
+    "createdAt": "2024-02-15T08:05:32.000Z",
+    "updatedAt": "2024-02-15T19:11:58.252Z",
+    "status": "publish",
+    "name": "İletişim",
+    "link": "/iletisim",
+    "isbutton": true,
+    "index": 3,
+    "scheduled": false
+  },
+  {
+    "ID": "e15cd1f52faa",
+    "createdAt": "2024-02-15T08:05:22.000Z",
+    "updatedAt": "2024-02-15T19:11:58.268Z",
+    "status": "publish",
+    "name": "Blog",
+    "link": "/blog",
+    "isbutton": false,
+    "index": 2,
+    "scheduled": false
+  },
+  {
+    "ID": "e40d0dbd9b85",
+    "createdAt": "2024-02-15T08:05:11.000Z",
+    "updatedAt": "2024-02-15T19:11:58.279Z",
+    "status": "publish",
+    "name": "Anasayfa",
+    "link": "/",
+    "isbutton": false,
+    "index": 1,
+    "scheduled": false
+  }
+]

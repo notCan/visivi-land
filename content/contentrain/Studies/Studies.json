@@ -1,0 +1,124 @@
+[
+  {
+    "appHero": {
+      "ID": "ce04e467-c733-4184-86d4-96d3b7682eb5",
+      "title": "Content is currency. We're making software vendors rich. ",
+      "subtitle": "Case Studies",
+      "description": "Wordify is not just another content factory, and our customers agree. ",
+      "logo": {
+        "ID": "47ec5d4e-323c-4a14-a4ff-f216dc1af340",
+        "src": "public/img/1659075214920_logo-brand.svg",
+        "alt": "logo",
+        "link": "/",
+        "createdAt": 1659075220008
+      },
+      "media": {
+        "ID": "2193687b-4193-40e1-af5a-ffa33aeead65",
+        "src": "public/img/1659075232566_background.avif",
+        "alt": "background",
+        "createdAt": 1659075237945
+      },
+      "createdAt": 1658827965041,
+      "updatedAt": 1695669334031
+    },
+    "sections": [
+      {
+        "ID": "fc5689df-e107-40c4-95be-c231533bbaa4",
+        "title": "Shopify 🤝 Wordify: Expertly executing numerous content projects",
+        "description": "Shopify, the eCommerce and headless commerce giant, has partnered with Wordify on a number of projects, including blog content, Burst.shopfy.com, Hatchful.shopify.com, and numerous landing page projects.",
+        "media": {
+          "ID": "a4e8e85e-b5a7-4fbc-b1d6-d16f792991da",
+          "src": "public/img/1659948483268_casestudy_shopify.svg",
+          "alt": "study 1",
+          "createdAt": 1659074034686,
+          "updatedAt": 1659948485888
+        },
+        "button": {
+          "ID": "7c23c83b-dcaf-4a98-a535-200caad517b5",
+          "label": "Read case study",
+          "link": "/blog/shopify",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1658828118901,
+          "updatedAt": 1659075569894
+        },
+        "index": 1,
+        "createdAt": 1658828054417,
+        "updatedAt": 1683101402377
+      },
+      {
+        "ID": "53e989c6-a635-4d33-ab44-6de7abcfcd41",
+        "title": "Liferay 🤝 Wordify: Educating the UK public sector",
+        "description": "As a leading Digital Experience Platform (DXP) working with both private enterprises and public sector organizations, Liferay needed content that encouraged government organizations to embark on a digital transformation journey. Wordify’s expertly researched blog posts and white papers were the solution.",
+        "media": {
+          "ID": "20951b84-8151-4060-ac38-d9119e8f7fb3",
+          "src": "public/img/1659948503258_casestudy_liferay.svg",
+          "alt": "study",
+          "createdAt": 1659074057118,
+          "updatedAt": 1659948504693
+        },
+        "button": {
+          "ID": "51310e02-240b-4505-a8a0-5e5fc61b6341",
+          "label": "Read case study",
+          "link": "/blog/liferay",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1658828153852,
+          "updatedAt": 1659075540247
+        },
+        "index": 2,
+        "createdAt": 1658828070634
+      },
+      {
+        "ID": "7d6ed108-baeb-449c-8731-75b51800e11f",
+        "title": "Core DNA 🤝 Wordify: Skyrocketing organic traffic by 227%",
+        "description": "Headless CMS vendor Core dna approached Wordify with a need for search engine-friendly content. In addition, they wanted to become thought leaders in the headless CMS space, and they needed sales assets to empower their sales representatives, too. Wordify’s plan was soon implemented, with excellent results within just one year.",
+        "media": {
+          "ID": "940cca63-5c94-4223-885d-e40e309fe8bd",
+          "src": "public/img/1659948518476_casestudy_coredna.svg",
+          "alt": "study",
+          "createdAt": 1659074079095,
+          "updatedAt": 1659948519728
+        },
+        "button": {
+          "ID": "0dc39478-5848-4c75-939f-3e13ae7d697e",
+          "label": "Read case study",
+          "link": "/blog/coredna",
+          "icon": "ri-arrow-right-up-line",
+          "createdAt": 1658828219165,
+          "updatedAt": 1659075594150
+        },
+        "index": 3,
+        "createdAt": 1658828084701
+      }
+    ],
+    "banner": {
+      "ID": "03af3e0d-2a3d-4ef9-a531-c8fcb99bcaa6",
+      "title": "Let’s spark conversations together",
+      "description": "",
+      "button": {
+        "ID": "aa8e5992-381b-4c9a-b7d1-f8f3d140a447",
+        "label": "Schedule a call",
+        "link": "/contact",
+        "icon": "ri-arrow-right-up-line",
+        "createdAt": 1690459095305
+      },
+      "createdAt": 1690459036103
+    },
+    "createdAt": 1658827821631,
+    "ID": "a18d2fa6-60c6-461a-8c06-aa1e84b2b962",
+    "metaData": {
+      "ID": "20d80a1d-e637-4385-87d3-72fe1cdd1ce3",
+      "title": "Wordify - Case Studies",
+      "tags": [
+        {
+          "ID": "3c0cd4ea-d04b-47de-a5a0-7f3f49fe79ce",
+          "name": "description",
+          "content": "Wordify - Case Studies",
+          "createdAt": 1659300147510,
+          "type": "default",
+          "updatedAt": 1660132128886
+        }
+      ],
+      "createdAt": 1659300116661
+    }
+  }
+]

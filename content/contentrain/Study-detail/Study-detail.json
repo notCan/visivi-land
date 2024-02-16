@@ -1,0 +1,20 @@
+[
+  {
+    "banner": {
+      "ID": "73baa3f1-defe-48d4-88a3-b18c3960ec8b",
+      "title": "Let’s spark conversations together",
+      "description": "",
+      "button": {
+        "ID": "94e0a6ef-9904-47d7-8ba3-a7f71b368e90",
+        "label": "Schedule a call",
+        "link": "/contact",
+        "icon": "ri-arrow-right-up-line",
+        "createdAt": 1659081404022
+      },
+      "createdAt": 1659081390191,
+      "updatedAt": 1690548671059
+    },
+    "createdAt": 1659081365101,
+    "ID": "576b4d40-3b9b-43f7-b0db-cefdec041bd3"
+  }
+]

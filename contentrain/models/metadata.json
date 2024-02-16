@@ -1,0 +1,131 @@
+[
+  {
+    "name": "logo",
+    "modelId": "logo",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "navigasyon",
+    "modelId": "navigasyon",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "anasayfa-hero",
+    "modelId": "anasayfa-hero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "Anasayfa-Hero-Images",
+    "modelId": "anasayfa-hero-images",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "referanslarimiz",
+    "modelId": "referanslarimiz",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "storebuttons",
+    "modelId": "storebuttons",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "fullbanner",
+    "modelId": "fullbanner",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "banner",
+    "modelId": "banner",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "Anasayfa-Second",
+    "modelId": "anasayfa-second",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "Anasayfa-Second-Cards",
+    "modelId": "anasayfa-second-cards",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "Anasayfa-Blog-Cards",
+    "modelId": "anasayfa-blog-cards",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "blog",
+    "modelId": "blog",
+    "path": "content/blog",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "Blog-Page-Hero",
+    "modelId": "blog-page-hero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "Footer-Left",
+    "modelId": "footer-left",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "Footer-Social-Links",
+    "modelId": "footer-social-links",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "Contact-Hero",
+    "modelId": "contact-hero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  }
+]

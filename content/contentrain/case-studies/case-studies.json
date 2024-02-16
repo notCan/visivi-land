@@ -1,0 +1,91 @@
+[
+  {
+    "ID": "42a2191c-0f3e-4cd9-b084-c49bdbe6ff17",
+    "title": "Shopify Case Study",
+    "content": "## THE PROBLEM\nShopify has partnered with Wordify on a number of projects, including blog content, Burst.shopfy.com, Hatchful.shopify.com, and numerous landing page projects. \n\nIn the lead-up to the launch of Hatchful, Shopify’s free logo maker, the eCommerce giant needed Wordify’s help with their extensive landing page project. They needed dozens of landing pages that were both SEO-friendly and optimized for incoming ad traffic. \n\n## WORDIFY’S SOLUTION\nDue to the size of the project, Shopify organized a meticulous spreadsheet to act as a hub for all landing pages. \n\nFor each landing page, Shopify’s marketing team provided the keywords, and Wordify’s team produced the bespoke content. Wordify was also entrusted with keeping all the content unique, engaging, and at the desired length. \n\n## THE RESULT\nThe goal of the Hatchful project was to use engaging, optimized content to raise awareness and encourage sign-ups for Shopify’s newest app. By working with Wordify, Shopify was able to generate a large amount of web traffic for their landing page and increase the number of users for the app.\n\n“I would recommend Wordify to any team looking to develop an effective content strategy or to create engaging content.” — Evan F - Marketing Content Specialist at Shopify.",
+    "slug": "shopify",
+    "appHero": {
+      "ID": "25ca57f7-0222-4264-8f00-52ef32991560",
+      "title": "Expertly Executing  Numerous Content Projects",
+      "subtitle": "",
+      "description": "",
+      "media": {
+        "ID": "81b71c70-b2ca-4334-9bc2-783c47080647",
+        "src": "public/img/1659948658823_shopify.svg",
+        "alt": "shopify",
+        "createdAt": 1659091058135,
+        "updatedAt": 1659948659992
+      },
+      "button": {
+        "ID": "35439c34-cd52-4863-be46-30684499505e",
+        "label": "Read case study",
+        "icon": "ri-mouse-line",
+        "createdAt": 1659091095910
+      },
+      "createdAt": 1659091003945,
+      "updatedAt": 1659091228346
+    },
+    "createdAt": 1659090856629,
+    "description": "Shopify Case Study",
+    "updatedAt": 1659603827880
+  },
+  {
+    "ID": "91a64b2c-b875-44d4-b2bd-deff0a6b8c41",
+    "title": "Liferay Case Study",
+    "content": "## THE PROBLEM\nAs a leading Digital Experience Platform (DXP) working with both private enterprises and public sector organizations, Liferay needed content that encouraged government organizations to embark on a digital transformation journey.\n\nLiferay wanted whitepapers addressing the obstacles to migrating from legacy systems to modern platforms, as well as the cultural and financial obstacles that stood between public sector organizations and digital transformation.\n\n## WORDIFY’S SOLUTION\nAfter rigorous research into both successful and unsuccessful public sector digital transformation strategies, Wordify crafted detailed white papers and blog posts to help educate UK public sector organizations about the first steps towards offering cutting-edge digital experiences to citizens and residents. \n\n“We were able to solve all of our copy needs, not just with white papers but also including social media and paid ads. Wordify is fast, responsive, and produces good content based on reliable research.” — Sylvia Assumpção, Liferay Marketing Manager\n\n## THE RESULT\nWith multiple white papers that addressed the pain points of its target market, Liferay was able to reach out to public sector entities with thought leadership and genuine solutions to their digital transformation problems. \n\nThe whitepapers also gave the Liferay marketing team the research, content, and impetus needed to engage with public sector entities in online forums and discussion groups.",
+    "slug": "liferay",
+    "appHero": {
+      "ID": "abf34427-f1d3-4f42-9cfa-73056b69255f",
+      "title": "Educating the  UK Public Sector",
+      "subtitle": "",
+      "description": "",
+      "media": {
+        "ID": "1a5b7463-05f5-42a5-a80f-02706a66766d",
+        "src": "public/img/1659948688789_liferay.svg",
+        "alt": "liferay",
+        "createdAt": 1659091171452,
+        "updatedAt": 1659948690536
+      },
+      "button": {
+        "ID": "5135b594-ff02-4e86-b89b-989889433ad9",
+        "label": "Read case study",
+        "icon": "ri-mouse-line",
+        "createdAt": 1659091187341
+      },
+      "createdAt": 1659091116905,
+      "updatedAt": 1659091242373
+    },
+    "createdAt": 1659090908803,
+    "description": "Liferay Case Study",
+    "updatedAt": 1659603839659
+  },
+  {
+    "ID": "e2943f37-2fac-479a-89c2-a5ed95f12ba2",
+    "title": "Core dna Case Study",
+    "content": "## THE PROBLEM\nHeadless CMS vendor Core dna approached Wordify with a need for search engine-friendly content. In addition, they wanted to become thought leaders in the headless CMS space, and they needed sales assets to empower their sales representatives, too.\n\nCore dna requested content for the top, middle, and bottom of their sales funnel, addressing trends and keywords like headless CMS, headless commerce, and decoupled CMS. \n\n“Wordify are specialists in this industry. They have deep domain knowledge allowing for elevated discussions, complete content and consistent messaging.” — Sam Saltis, CEO of Core dna.\n\n## WORDIFY’S SOLUTION\nAfter analyzing Core dna’s websites and content assets, Wordify suggested the following two solutions. \n\n1) Changing Core dna’s website messaging to reflect and promote their status as a hybrid headless CMS. \n\n2) Producing content addressing the definitions and common questions related to headless content management and headless commerce. \n\n3) Generating sales assets around how a hybrid headless CMS can empower marketers. \n\nWordify worked with the Core dna team to update its website copy and produce top-of-the-funnel content such as ‘Headless CMS vs Decoupled CMS’. Wordify also produces ebooks that addressed trends within the CMS industry.\n\n## THE RESULT\nAfter one year, Core dna reported an overall 227% increase in organic traffic, with 80% of new leads coming from organic search. Wordify’s content played a major role in this success story. \n\n“We have seen a definite uptick in organic traffic and better quality of leads through the door. We have been able to achieve things much faster with the Wordify team than just using internal resources.” — Paul Savage, VP of Partnerships at Core dna.",
+    "slug": "coredna",
+    "appHero": {
+      "ID": "67f0b15f-cd33-4f26-9733-1d8bc01f4081",
+      "title": "Skyrocketing  Organic Traffic by 227%",
+      "subtitle": "",
+      "description": "",
+      "media": {
+        "ID": "a906909b-36f4-41a7-a47f-3861ef051efe",
+        "src": "public/img/1659948707064_coredna.svg",
+        "alt": "coredna",
+        "createdAt": 1659091264596,
+        "updatedAt": 1659948709183
+      },
+      "button": {
+        "ID": "62a2d5f3-20be-41e5-8c24-5dc965b9d52a",
+        "label": "Read case study",
+        "icon": "ri-mouse-line",
+        "createdAt": 1659091282274
+      },
+      "createdAt": 1659091213143
+    },
+    "createdAt": 1659090983675,
+    "description": "Coredna Case Study",
+    "updatedAt": 1659603876932
+  }
+]
