@@ -107,7 +107,7 @@ a {
     } */
     .media {
       img {
-        @apply w-full h-auto rounded-2xl mb-8 lg:mb-0 lg:max-w-[510px] lg:max-h-[425px];
+        @apply h-auto rounded-2xl mb-8 lg:mb-0 lg:max-w-[510px] lg:max-h-[425px];
       }
     }
   }

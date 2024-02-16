@@ -15,9 +15,10 @@
             </nuxt-link>
           </div>
         </div>
-        <div class="media p-0 md:pl-2 flex justify-center items-center">
-          <img class="w-full xl:min-w-[650px] h-auto rounded-2xl mt-12 md:mt-0" src="/img/1660162214661_home.svg"
-            alt="hero" />
+        <div class="media p-0 md:pl-2 flex rounded-2xl justify-center items-center">
+          <div class="w-full xl:min-w-[650px] mx-auto h-auto rounded-2xl mt-12 md:mt-0">
+            <img class="mx-auto" src="/img/1660162214661_home.jpg" alt="hero" />
+          </div>
         </div>
       </section>
       <section ref="references" class="
